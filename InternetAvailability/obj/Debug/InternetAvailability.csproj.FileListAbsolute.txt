@@ -1,0 +1,9 @@
+C:\Users\T1684\source\repos\InternetAvailability\InternetAvailability\obj\Debug\InternetAvailability.csproj.AssemblyReference.cache
+C:\Users\T1684\source\repos\InternetAvailability\InternetAvailability\obj\Debug\InternetAvailability.csproj.CoreCompileInputs.cache
+C:\Users\T1684\source\repos\InternetAvailability\InternetAvailability\bin\Debug\InternetAvailability.exe.config
+C:\Users\T1684\source\repos\InternetAvailability\InternetAvailability\bin\Debug\InternetAvailability.exe
+C:\Users\T1684\source\repos\InternetAvailability\InternetAvailability\bin\Debug\InternetAvailability.pdb
+C:\Users\T1684\source\repos\InternetAvailability\InternetAvailability\obj\Debug\Interop.NETWORKLIST.dll
+C:\Users\T1684\source\repos\InternetAvailability\InternetAvailability\obj\Debug\InternetAvailability.csproj.ResolveComReference.cache
+C:\Users\T1684\source\repos\InternetAvailability\InternetAvailability\obj\Debug\InternetAvailability.exe
+C:\Users\T1684\source\repos\InternetAvailability\InternetAvailability\obj\Debug\InternetAvailability.pdb
