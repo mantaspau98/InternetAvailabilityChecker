@@ -1,6 +1,6 @@
-** Ways to check internet availability in .net
+# Ways to check internet availability in .net
 
-* Results:
+## Results:
 
 Internet available COM Network List Manager: True; time elapsed to check: 7ms
 
